@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "What Would I Change It To (feat. Aluna)",
+  "base_artist": "Avicii",
+  "createdAt": "2026-03-31T13:21:00.397489Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "What Would I Change It To (feat. Aluna)",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/01_What_Would_I_Change_It_To_(feat._Aluna)_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "What Would I Change It To (feat. Aluna)",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/02_What_Would_I_Change_It_To_(feat._Aluna)_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "What Would I Change It To (feat. Aluna)",
+      "artist": "Avicii, Aluna",
+      "has_synced": true,
+      "path": "select/03_What_Would_I_Change_It_To_(feat._Aluna)_Avicii,_Aluna.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "What Would I Change It To (feat. Aluna)",
+      "artist": "Avicii feat. Aluna",
+      "has_synced": true,
+      "path": "select/04_What_Would_I_Change_It_To_(feat._Aluna)_Avicii_feat._Aluna.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "What Would I Change It To (feat. Aluna)",
+      "artist": "Avicii; Aluna",
+      "has_synced": true,
+      "path": "select/05_What_Would_I_Change_It_To_(feat._Aluna)_Avicii;_Aluna.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "What Would I Change It To [feat. Aluna]",
+      "artist": "Avicii feat. Aluna",
+      "has_synced": true,
+      "path": "select/06_What_Would_I_Change_It_To_[feat._Aluna]_Avicii_feat._Aluna.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "What Would I Change It To [feat. AlunaGeorge]",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/07_What_Would_I_Change_It_To_[feat._AlunaGeorge]_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "What Would I Change It To (feat. AlunaGeorge)",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/08_What_Would_I_Change_It_To_(feat._AlunaGeorge)_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "What Would I Change It To (feat. AlunaGeorge)",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/09_What_Would_I_Change_It_To_(feat._AlunaGeorge)_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "What Would I Change It To (Feat. Alunageorge)",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/10_What_Would_I_Change_It_To_(Feat._Alunageorge)_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "What Would I Change It To feat. Alunageorge",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/11_What_Would_I_Change_It_To_feat._Alunageorge_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "What Would I Change It To (Feat. AlunaGeorge)",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/12_What_Would_I_Change_It_To_(Feat._AlunaGeorge)_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "What Would I Change It To (feat. AlunaGeorge)",
+      "artist": "Avicii feat. AlunaGeorge",
+      "has_synced": true,
+      "path": "select/13_What_Would_I_Change_It_To_(feat._AlunaGeorge)_Avicii_feat._AlunaGeorge.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "What Would I Change It To (feat. AlunaGeorge)",
+      "artist": "アヴィーチー",
+      "has_synced": false,
+      "path": "select/pl_01_What_Would_I_Change_It_To_(feat._AlunaGeorge)_アヴィーチー.txt"
+    }
+  ]
+}
